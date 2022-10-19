@@ -43,4 +43,3 @@ Este projeto tem como finalidade mostrar a relação de três coleções chamada
 [<img src="https://user-images.githubusercontent.com/108839671/196804336-dfff4284-f7a0-4017-b177-e1792c460f28.jpg" width=115><br><sub>Nailen Aguiar</sub>](https://https://github.com/nailenaguiar4)
 
 
-
