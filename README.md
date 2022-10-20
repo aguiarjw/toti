@@ -7,8 +7,8 @@
     
     # Índice :
 
-* [Descrição do Projeto](#Título-e-Imagem-de-capa)
-* [Conteudo Utilizado](#badges)
+* [Descrição do Projeto](#Descrição-do-Projeto)
+* [Conteudo Utilizado](#Conteudo-Utilizado)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Acesso ao Projeto](#acesso-ao-projeto)
